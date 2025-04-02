@@ -18,7 +18,7 @@ export default defineNuxtConfig({
   },
 
   runtimeConfig: {
-    siteToken: 'SinkCool',
+    siteToken: 'RunarAI',
     redirectStatusCode: '301',
     linkCacheTtl: 60,
     redirectWithQuery: false,
